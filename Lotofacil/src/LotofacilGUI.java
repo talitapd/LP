@@ -39,7 +39,7 @@ public class LotofacilGUI extends JFrame{
         jButtonAposta2.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String aposta2 = JOptionPane.showInputDialog(null,"Digite um número de A a Z");
+                String aposta2 = JOptionPane.showInputDialog(null,"Digite uma letra de A a Z");
                 char letraSorteada = 'T';
                 char letraApostada = aposta2.charAt(0);
                 if(Character.isLetter(letraApostada)){
