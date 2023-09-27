@@ -12,7 +12,7 @@ public class LotofacilGUI extends JFrame{
     private JButton jButtonAposta1 = new JButton("Apostar de 0 a 100");
     private JButton jButtonAposta2 = new JButton("Apostar de A a Z");
     private JButton jButtonAposta3 = new JButton("Apostar par ou ímpar");
-    private JLabel jLabelMensagem = new JLabel("Exemplo de Simples Janela");
+    
     // Construtor
     public LotofacilGUI(){
         this.setTitle("Lotofácil - Interface Gráfica");
