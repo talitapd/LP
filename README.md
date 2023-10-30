@@ -1,26 +1,35 @@
-# README - Projeto Lotofácil em Java
+# Projetos da Aula de Linguagem de Programação
 
-Este README fornece as instruções para executar o projeto Lotofácil em Java. Este projeto foi desenvolvido com a versão 17.0.8
+Este repositório contém uma coleção de projetos desenvolvidos durante a aula de Linguagem de Programação. Esses projetos são exemplos práticos de conceitos e técnicas aprendidas ao longo do curso.
 
-## Pré-requisitos
+## Bibliotecas Utilizadas
 
-Antes de começar, certifique-se de que você tenha o seguinte pré-requisito instalado em seu sistema:
+Durante o desenvolvimento dos projetos, foram utilizadas as seguintes bibliotecas:
 
-- **Java Development Kit (JDK):** É necessário ter a versão 17.0.8 ou superior do JDK instalada. Você pode verificar a versão do JDK instalada executando `java -version` no terminal.
+- `java.util.Scanner`: Utilizada para realizar a leitura de entradas do usuário.
+- `java.util.Random`: Utilizada para gerar valores aleatórios.
+- `java.io.IOException`: Utilizada para lidar com exceções relacionadas à entrada e saída de dados.
+- `java.util.ArrayList`: Utilizada para implementar a lista de tarefas.
 
-## Bibliotecas ultilizadas
+## Lista de Projetos
 
+Aqui está uma lista dos projetos disponíveis neste repositório:
 
-1. [Scanner](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)
-2. [Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
-3. [IOException](https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/java/io/IOException.html)
+1. **Loto Fácil**: Um programa que gera números aleatórios para jogos da loteria Loto Fácil.
+2. **Lista de Tarefas**: Um aplicativo simples para gerenciar uma lista de tarefas, utilizando a estrutura de dados ArrayList.
 
-## Executando o Projeto
+## Como Executar os Projetos
 
-Aqui estão as etapas para executar o projeto Lotofácil em Java:
+Para executar qualquer um dos projetos, siga as seguintes etapas:
 
-1. **Clone o repositório:** Comece clonando ou baixando o repositório em seu sistema.
+1. Clone este repositório em sua máquina local.
+2. Abra o projeto desejado em sua IDE de preferência.
+3. Compile e execute o projeto.
 
-2. **Navegue até o diretório do projeto:** Abra um terminal ou prompt de comando e navegue até o diretório onde o projeto Lotofácil está localizado.
+## Contribuição
 
-3. **Compilação:** Compile o código-fonte do projeto
+Se você quiser contribuir com algum projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo. Meu email é talitapaivadiniz@hotmail.com.
